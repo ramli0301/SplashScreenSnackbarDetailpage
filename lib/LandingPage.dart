@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-
 import 'MainPage.dart';
 
 class LandingPage extends StatelessWidget {
